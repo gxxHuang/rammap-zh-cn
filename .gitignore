@@ -1,0 +1,8 @@
+# .NET 构建中间产物
+patcher/bin/
+patcher/obj/
+*.user
+
+# 本地开发用（原版 exe 与测试输出，不纳入仓库）
+rammap_src/
+out/
