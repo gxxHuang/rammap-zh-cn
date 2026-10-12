@@ -6,6 +6,7 @@
 ![tool](https://img.shields.io/badge/tool-.NET%208-512BD4)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![size](https://img.shields.io/badge/dist-183%20KB-success)
+[![Release](https://img.shields.io/github/v/release/gxxHuang/rammap-zh-cn)](https://github.com/gxxHuang/rammap-zh-cn/releases/latest)
 
 ---
 
@@ -48,7 +49,7 @@
 ## 快速开始（3 步）
 
 1. **下载官方原版**：前往上方「📥 获取官方 RAMMap」章节的链接（微软官网，免费），解压备用
-2. **下载本工具**：从 [**Releases 发布页**](../../releases/latest) 下载最新的 `RAMMap汉化工具.exe`，放到任意位置
+2. **下载本工具**：从 [**Releases 发布页**](../../releases/latest) 下载最新版工具（`RAMMap-Zh-CN-Tool.exe`，183 KB，免安装），放到任意位置
    （也可以直接下载仓库里 `dist/RAMMap汉化工具.exe`）
 3. **点一下汉化**：运行工具 → 选择 RAMMap 目录 → 点「汉化 →」，完事
 
